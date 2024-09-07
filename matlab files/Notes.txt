@@ -1,0 +1,7 @@
+before start to run the main script, is recommended:
+- for better view, put your command window in full-screen mode (via double click on the name bar)
+- read whole massages that appear in order to understand what they need!
+- be careful to entering data because: 
+     - there is no "try and catch" consideration or "error management" in the anywhere of functions
+     - you are able to get data to program just "once" and data-catching is not repeated
+- to cut the process of designing, you can press keys "Ctrl+C"
